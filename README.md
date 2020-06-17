@@ -6,24 +6,23 @@
 
 [_wiktionary on "feta"_](https://en.wiktionary.org/wiki/feta#Polish)
 
-Now, it is also a VSCode light theme.
+**Now, it's also a minimal light VSCode theme.**
 
-TBD picture
-
----
+![](/screenshots/light.png)
 
 ### Color Pallete
 
-Background: #ffffff
-Foreground: #111122
+Background: `#ffffff`
+Foreground: `#111122`
 
-Critical: #fc0540
-Blue: #4747ff
+Critical: `#e8194b`
+Warning: `#e97500`
+Link: `#4747ff`
 
 Grays:
 
 ```
-#ededee, #e0e0e2, #d3d3d5, #c3c3c6, #b3b3b6, #9f9fa4, #828295, #6b6b73, #3e3e48, #212127
+#fcfcfe, #f9f9fa, #ededee, #e0e0e2, #d3d3d5, #c3c3c6, #b3b3b6, #9f9fa4, #828295, #6b6b73, #3e3e48, #212127
 ```
 
 ### Disclaimer

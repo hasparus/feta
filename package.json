@@ -1,21 +1,28 @@
 {
-    "name": "feta",
-    "displayName": "feta",
-    "description": "a minimal light theme for dim screens",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.46.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "feta",
-                "uiTheme": "vs",
-                "path": "./themes/feta-color-theme.json"
-            }
-        ]
-    }
+  "name": "feta",
+  "displayName": "feta",
+  "description": "a minimal light theme for dim screens",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hasparus/feta"
+  },
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "feta",
+        "uiTheme": "vs",
+        "path": "./themes/feta-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "publish": "npx vsce package && npx vsce publish"
+  }
 }

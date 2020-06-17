@@ -3,7 +3,22 @@
   "type": "light",
   "colors": {
     "editor.background": "#ffffff",
-    "editor.foreground": "#111122"
+    "editor.foreground": "#111122",
+    "editorWarning.foreground": "#e97500",
+    "editorError.foreground": "#e8194b",
+    "editorLink.activeForeground": "#1313ff",
+    "editor.selectionBackground": "#ededff",
+    "activityBar.background": "#fcfcfe",
+    "activityBar.foreground": "#3e3e48",
+    "sideBar.background": "#fcfcfe",
+    "badge.background": "#212127",
+    "badge.foreground": "#ffffff",
+    "activityBarBadge.background": "#212127",
+    "activityBarBadge.foreground": "#fcfcfe",
+    "sideBarSectionHeader.background": "#ededee",
+    "sideBarSectionHeader.foreground": "#6b6b73",
+    "editorLineNumber.foreground": "#e0e0e2",
+    "editorLineNumber.activeForeground": "#9f9fa4"
   },
   "tokenColors": [
     {
@@ -31,7 +46,7 @@
       "name": "Invalid - Illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#fc0540"
+        "foreground": "#e8194b"
       }
     },
     {
@@ -184,7 +199,7 @@
       "name": "Markup: Error",
       "scope": "markup.error",
       "settings": {
-        "foreground": "#fc0540"
+        "foreground": "#e8194b"
       }
     },
     {
