@@ -4,6 +4,8 @@ import './App.css';
 import ButtonPanel from './ButtonPanel';
 import Display from './Display';
 
+const 2x = 2 + 3;
+
 class App extends React.Component {
   constructor(props) {
     super(props)
@@ -13,6 +15,7 @@ class App extends React.Component {
       operation: null
     }
   }
+
 
   handleClick = buttonName => {
     this.setState(calculate(this.state, buttonName))

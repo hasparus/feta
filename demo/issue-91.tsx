@@ -4,6 +4,18 @@ import './App.css'
 import ButtonPanel from './ButtonPanel'
 import Display from './Display'
 
+const A = () => {}
+
+function Foobar() {
+
+}
+
+type A = {
+  
+}
+
+console.log(A);
+
 class App extends React.Component {
   constructor(props) {
     super(props)
