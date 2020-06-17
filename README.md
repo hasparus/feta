@@ -12,6 +12,7 @@
 
 ### Color Palette
 
+```
 Background: `#ffffff`
 Foreground: `#111122`
 
@@ -20,9 +21,10 @@ Warning: `#e97500`
 Link: `#4747ff`
 
 Grays:
-
-```
-#fcfcfe, #f9f9fa, #ededee, #e0e0e2, #d3d3d5, #c3c3c6, #b3b3b6, #9f9fa4, #828295, #6b6b73, #3e3e48, #212127
+#fcfcfe, #f9f9fa, #ededee,
+#e0e0e2, #d3d3d5, #c3c3c6,
+#b3b3b6, #9f9fa4, #828295,
+#6b6b73, #3e3e48, #212127
 ```
 
 ### Disclaimer
