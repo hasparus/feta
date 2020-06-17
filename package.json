@@ -3,12 +3,13 @@
   "displayName": "feta",
   "description": "a minimal light theme for dim screens",
   "version": "0.0.1",
+  "publisher": "hasparus",
   "repository": {
     "type": "git",
     "url": "https://github.com/hasparus/feta"
   },
   "engines": {
-    "vscode": "^1.46.0"
+    "vscode": "^1.45.1"
   },
   "categories": [
     "Themes"
@@ -23,6 +24,6 @@
     ]
   },
   "scripts": {
-    "publish": "npx vsce package && npx vsce publish"
+    "package": "npx vsce package"
   }
 }
