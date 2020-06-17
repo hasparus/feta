@@ -10,7 +10,7 @@
 
 ![](/screenshots/light.png)
 
-### Color Pallete
+### Color Palette
 
 Background: `#ffffff`
 Foreground: `#111122`
