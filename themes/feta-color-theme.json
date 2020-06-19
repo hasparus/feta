@@ -10,7 +10,6 @@
     "editor.selectionBackground": "#ededff",
     "activityBar.background": "#fcfcfe",
     "activityBar.foreground": "#3e3e48",
-    "sideBar.background": "#fcfcfe",
     "badge.background": "#212127",
     "badge.foreground": "#ffffff",
     "activityBarBadge.background": "#212127",
@@ -18,7 +17,62 @@
     "sideBarSectionHeader.background": "#ededee",
     "sideBarSectionHeader.foreground": "#6b6b73",
     "editorLineNumber.foreground": "#e0e0e2",
-    "editorLineNumber.activeForeground": "#9f9fa4"
+    "editorLineNumber.activeForeground": "#9f9fa4",
+    "statusBar.background": "#212127",
+    "tab.inactiveBackground": "#f9f9fa",
+    "tab.activeBackground": "#fcfcfe",
+    "editorGroupHeader.tabsBackground": "#f9f9fa",
+    "sideBar.border": "#f9f9fa",
+    "sideBar.background": "#ffffff",
+    // Dropdown
+    "dropdown.background": "#ffffff",
+    "dropdown.foreground": "#3b3a58",
+    "dropdown.border": "#e0e0e2",
+    // List
+    "list.activeSelectionBackground": "#3b3a58",
+    "list.activeSelectionForeground": "#f9f9fa",
+    "list.inactiveSelectionBackground": "#e0e2ea",
+    "list.inactiveSelectionForeground": "#3b3a58",
+    "list.focusBackground": "#e4e4f3",
+    "list.hoverBackground": "#e0e2ea",
+    "list.focusForeground": "#212127",
+    "list.hoverForeground": "#212127",
+    "list.highlightForeground": "#212127",
+    "list.errorForeground": "#d13057",
+    "list.warningForeground": "#ad5700",
+    // Terminal
+    "terminal.ansiBrightBlack": "#212127",
+    "terminal.ansiBlack": "#111122",
+    "terminal.ansiBrightBlue": "#1010cf",
+    "terminal.ansiBlue": "#5252ff",
+    "terminal.ansiBrightCyan": "#0c9999",
+    "terminal.ansiCyan": "#0eb2b2",
+    "terminal.ansiBrightGreen": "#0c9d55",
+    "terminal.ansiGreen": "#0eb763",
+    "terminal.ansiBrightMagenta": "#b061ff",
+    "terminal.ansiMagenta": "#c184ff",
+    "terminal.ansiBrightRed": "#ff3e3e",
+    "terminal.ansiRed": "#ff7474",
+    "terminal.ansiBrightWhite": "#F0F0F0",
+    "terminal.ansiWhite": "#F0F0F0",
+    "terminal.ansiBrightYellow": "#d47c23",
+    "terminal.ansiYellow": "#f09335",
+    "terminal.background": "#ffffff",
+    "terminal.foreground": "#403f53",
+    // Scroll Bar
+    "scrollbar.shadow": "#DDDDDD",
+    // Debug
+    "debugToolBar.background": "#F0F0F0",
+    // Picker Group
+    "pickerGroup.border": "#d9d9d9",
+    "pickerGroup.foreground": "#403f53",
+    // Extension
+    "extensionButton.prominentBackground": "#5656f0",
+    "extensionButton.prominentHoverBackground": "#1b1bff",
+    "extensionButton.prominentForeground": "#ffffff",
+    // Widgets
+    "editorWidget.background": "#fafafa",
+    "editorWidget.border": "#e0e0e2"
   },
   "tokenColors": [
     {
