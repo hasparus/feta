@@ -355,9 +355,17 @@
       }
     },
     {
+      "name": "This",
       "scope": "variable.language.this",
       "settings": {
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "JSON Property Names",
+      "scope": "support.type.property-name.json",
+      "settings": {
+        "foreground": "#212127"
       }
     }
   ]
