@@ -288,14 +288,16 @@
       "name": "Markup: Heading",
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#3e3e48"
+        "foreground": "#3e3e48",
+        "fontStyle": "bold"
       }
     },
     {
       "name": "Markup: Strong",
       "scope": "markup.bold",
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": "bold",
+        "foreground": "#212127"
       }
     },
     {
@@ -321,12 +323,13 @@
       }
     },
     {
-      "name": "Markup Styling",
-      "scope": ["markup.bold", "markup.italic"],
+      "name": "Markup: Italic",
+      "scope": ["markup.italic"],
       "settings": {
         "fontStyle": "italic"
       }
     },
+
     {
       "name": "Extra: Diff Range",
       "scope": ["meta.diff.range", "meta.diff.index", "meta.separator"],
