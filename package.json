@@ -24,6 +24,7 @@
     ]
   },
   "scripts": {
-    "package": "npx vsce package"
+    "package": "npx vsce package",
+    "open-marketplace": "xdg-open https://marketplace.visualstudio.com/manage/publishers/hasparus"
   }
 }
