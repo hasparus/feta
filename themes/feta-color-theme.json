@@ -14,7 +14,7 @@
     "badge.foreground": "#ffffff",
     "activityBarBadge.background": "#212127",
     "activityBarBadge.foreground": "#fcfcfe",
-    "sideBarSectionHeader.background": "#ededee",
+    "sideBarSectionHeader.background": "#ffffff",
     "sideBarSectionHeader.foreground": "#6b6b73",
     "editorLineNumber.foreground": "#e0e0e2",
     "editorLineNumber.activeForeground": "#9f9fa4",
